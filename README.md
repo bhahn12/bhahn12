@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhahn12
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning various js frameworks
+- 🌱 I’m currently studying react.js
 - 📫 How to reach me bhahn123@gmail.com
 
 <!---
